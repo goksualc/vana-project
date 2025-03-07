@@ -1,5 +1,3 @@
-# vana-project
-
 # Building a Complete DApp on Vana Testnet: Step-by-Step Guide
 
 ## 1. Set Up Your Development Environment
